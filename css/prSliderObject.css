@@ -1,0 +1,110 @@
+
+
+.main-body{
+    background-color: rgb(159, 255, 255);
+    
+}
+
+
+.padding-text{
+    padding-left: 20%;
+}
+
+.lh-slider{
+    /* align-items: center;
+    width: 50%;
+    margin-left: auto;
+    scroll-margin-left:  auto;
+    margin-right: auto;
+    scroll-margin-right: auto;
+    text-align: center; */
+}
+
+.container{
+    position: absolute;
+    margin: 0 auto;
+    align-items: center;
+    padding-left: 15%;
+    display: block;
+}
+
+/* .pe{
+    text-align: center;
+} */
+
+.bckg{
+    position: relative;
+    width:1024px;
+    height:1024px;
+    background:black;
+    border: 10px solid rgb(0, 180, 180);
+    margin: 0 auto; 
+    display: block;
+}
+
+.slider-img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: 1;
+    transform: translate(-50%, -50%);
+}
+
+.iron-title{
+    display: inline-block;
+    font-size: 100px;
+    color: rgb(133, 28, 28);
+    -webkit-text-stroke-width: 5px;
+    -webkit-text-stroke-color: black;
+    
+}
+
+.royal-title{
+    display: inline-block;
+    font-size: 100px;
+    font-style: Snell Roundhand, cursive;
+    color: gold;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    
+}
+
+.eagle-title{
+    display: inline-block;
+    font-size: 100px;
+    font-style: Snell Roundhand, cursive;
+    color: rgb(226, 226, 226);
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;
+    
+}
+
+.union-title{
+    display: inline-block;
+    font-size: 100px;
+    font-style: Snell Roundhand, cursive;
+    color: rgb(22, 67, 214);
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: black;
+    
+}
+
+.sakura-title{
+    display: inline-block;
+    font-size: 100px;
+    font-style: Snell Roundhand, cursive;
+    color: whitesmoke;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: rgb(197, 91, 91);
+    display: inline-block;
+}
+
+.sun-title{
+    font-size: 100px;
+    font-style: Snell Roundhand, cursive;
+    color: rgb(206, 22, 22);
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: rgb(187, 0, 0);
+    display: inline-block;
+}
+
